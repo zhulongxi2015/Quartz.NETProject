@@ -1,0 +1,17 @@
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\QuartzArchitecture.Service.exe.config
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\QuartzArchitecture.Service.exe
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\QuartzArchitecture.Service.pdb
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\Common.Logging.dll
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\log4net.dll
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\MyQuartzArchitecture.Jobs.dll
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\Quartz.dll
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\QuartzRunner.dll
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\MyQuartzArchitecture.Jobs.pdb
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\QuartzRunner.pdb
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\Common.Logging.xml
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Release\Quartz.xml
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Release\QuartzArchitecture.Service.csprojResolveAssemblyReference.cache
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Release\QuartzArchitecture.Service.ProjectInstaller.resources
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Release\QuartzArchitecture.Service.csproj.GenerateResource.Cache
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Release\QuartzArchitecture.Service.exe
+D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Release\QuartzArchitecture.Service.pdb

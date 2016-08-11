@@ -1,0 +1,49 @@
+﻿2016-08-11 15:22:34,254 INFO  Quartz.Util.DBConnectionManager  - Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2016-08-11 15:22:34,269 INFO  Quartz.Impl.StdSchedulerFactory  - Using default implementation for object serializer
+2016-08-11 15:22:34,269 INFO  Quartz.Impl.StdSchedulerFactory  - Using default implementation for ThreadExecutor
+2016-08-11 15:22:34,316 INFO  Quartz.Core.SchedulerSignalerImpl  - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2016-08-11 15:22:34,316 INFO  Quartz.Core.QuartzScheduler  - Quartz Scheduler v.2.1.2.400 created.
+2016-08-11 15:22:34,316 INFO  Quartz.Impl.AdoJobStore.JobStoreTX  - Using db table-based data access locking (synchronization).
+2016-08-11 15:22:34,316 INFO  Quartz.Impl.AdoJobStore.JobStoreTX  - JobStoreTX initialized.
+2016-08-11 15:22:34,316 INFO  Quartz.Core.QuartzScheduler  - Scheduler meta-data: Quartz Scheduler (v2.1.2.400) 'ServerScheduler' with instanceId 'instance_one'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is clustered.
+
+2016-08-11 15:22:34,316 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz scheduler 'ServerScheduler' initialized
+2016-08-11 15:22:34,316 INFO  Quartz.Impl.StdSchedulerFactory  - Quartz scheduler version: 2.1.2.400
+2016-08-11 15:22:34,472 INFO  QuartzRunner.AdoJobStoreRunner  - *****************Initialization Complete 8/11/2016 3:22:34 PM***************
+2016-08-11 15:22:35,129 INFO  Quartz.Impl.AdoJobStore.JobStoreTX  - ClusterManager: detected 1 failed or restarted instances.
+2016-08-11 15:22:35,129 INFO  Quartz.Impl.AdoJobStore.JobStoreTX  - ClusterManager: Scanning for instance "instance_one"'s failed in-progress jobs.
+2016-08-11 15:22:35,144 INFO  Quartz.Core.QuartzScheduler  - Scheduler ServerScheduler_$_instance_one started.
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 8/11/2016 3:22:35 PM
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 0 8/11/2016 3:22:35 PM
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 1 8/11/2016 3:22:35 PM
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 2 8/11/2016 3:22:35 PM
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 3 8/11/2016 3:22:35 PM
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 4 8/11/2016 3:22:35 PM
+2016-08-11 15:22:35,332 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob end... 8/11/2016 3:22:35 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 8/11/2016 3:22:40 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 0 8/11/2016 3:22:40 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 1 8/11/2016 3:22:40 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 2 8/11/2016 3:22:40 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 3 8/11/2016 3:22:40 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 4 8/11/2016 3:22:40 PM
+2016-08-11 15:22:40,035 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob end... 8/11/2016 3:22:40 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 8/11/2016 3:22:45 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 0 8/11/2016 3:22:45 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 1 8/11/2016 3:22:45 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 2 8/11/2016 3:22:45 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 3 8/11/2016 3:22:45 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 4 8/11/2016 3:22:45 PM
+2016-08-11 15:22:45,085 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob end... 8/11/2016 3:22:45 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 8/11/2016 3:22:50 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 0 8/11/2016 3:22:50 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 1 8/11/2016 3:22:50 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 2 8/11/2016 3:22:50 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 3 8/11/2016 3:22:50 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob start... 4 8/11/2016 3:22:50 PM
+2016-08-11 15:22:50,050 INFO  MyQuartzArchitecture.Jobs.SimpleQuartzJob  - SimpleQuartzJob end... 8/11/2016 3:22:50 PM

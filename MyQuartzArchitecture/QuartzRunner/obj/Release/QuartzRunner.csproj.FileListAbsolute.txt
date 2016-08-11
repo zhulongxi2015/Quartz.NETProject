@@ -1,0 +1,13 @@
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\QuartzRunner.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\QuartzRunner.pdb
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\Common.Logging.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\Common.Logging.Log4Net.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\log4net.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\MyQuartzArchitecture.Jobs.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\Quartz.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\MyQuartzArchitecture.Jobs.pdb
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\Common.Logging.xml
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\bin\Release\Quartz.xml
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\obj\Release\QuartzRunner.csprojResolveAssemblyReference.cache
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\obj\Release\QuartzRunner.dll
+D:\Porjects\MyQuartzArchitecture\QuartzRunner\obj\Release\QuartzRunner.pdb

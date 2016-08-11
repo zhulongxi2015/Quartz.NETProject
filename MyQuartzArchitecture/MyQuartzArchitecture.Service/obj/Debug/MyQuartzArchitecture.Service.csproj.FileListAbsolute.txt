@@ -1,0 +1,17 @@
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\MyQuartzArchitecture.Service.exe.config
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\MyQuartzArchitecture.Service.exe
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\MyQuartzArchitecture.Service.pdb
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\Common.Logging.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\log4net.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\Quartz.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\QuartzRunner.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\MyQuartzArchitecture.Jobs.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\QuartzRunner.pdb
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\Common.Logging.xml
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\Quartz.xml
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\MyQuartzArchitecture.Jobs.pdb
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\obj\Debug\MyQuartzArchitecture.Service.csprojResolveAssemblyReference.cache
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\obj\Debug\MyQuartzArchitecture.Service.exe
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\obj\Debug\MyQuartzArchitecture.Service.pdb
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\bin\Debug\Common.Logging.Log4Net.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Service\obj\Debug\MyQuartzArchitecture.Service.csproj.MyQuartzArchitecture.Service.exe.config

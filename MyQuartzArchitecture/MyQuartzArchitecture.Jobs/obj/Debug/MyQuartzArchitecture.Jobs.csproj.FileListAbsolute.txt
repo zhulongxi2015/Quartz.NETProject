@@ -1,0 +1,9 @@
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\MyQuartzArchitecture.Jobs.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\MyQuartzArchitecture.Jobs.pdb
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\Common.Logging.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\log4net.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\Quartz.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\Common.Logging.xml
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\bin\Debug\Quartz.xml
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\obj\Debug\MyQuartzArchitecture.Jobs.dll
+D:\Porjects\MyQuartzArchitecture\MyQuartzArchitecture.Jobs\obj\Debug\MyQuartzArchitecture.Jobs.pdb
