@@ -18,3 +18,6 @@ D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Debug\QuartzArch
 D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Debug\Common.Logging.Log4Net.dll
 D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Debug\QuartzArchitecture.Service.csproj.QuartzArchitecture.Service.exe.config
 D:\Porjects\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Debug\C5.dll
+D:\Porjects\MyGitHubProjects\QuartNetPorject\MyQuartzArchitecture\QuartzArchitecture.Service\bin\Debug\QuartzArchitecture.Service.exe.config
+D:\Porjects\MyGitHubProjects\QuartNetPorject\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Debug\QuartzArchitecture.Service.exe
+D:\Porjects\MyGitHubProjects\QuartNetPorject\MyQuartzArchitecture\QuartzArchitecture.Service\obj\Debug\QuartzArchitecture.Service.pdb
